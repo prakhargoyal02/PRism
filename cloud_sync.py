@@ -357,3 +357,4 @@ def sync_status_text() -> str:
         return "Sync needs attention"
     revision = st.session_state.get("_prism_cloud_revision")
     return f"Private cloud synced · revision {revision}" if revision else "Private cloud connected"
+
