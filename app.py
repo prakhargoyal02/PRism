@@ -1138,3 +1138,4 @@ else:
         "PRism is a fitness tracking and education project. It does not diagnose medical conditions or replace a qualified trainer, dietitian or healthcare professional. "
         "Local SQLite and CSV backups are stored only on this computer unless you export or share them."
     )
+
