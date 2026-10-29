@@ -41,3 +41,4 @@
 - [ ] No `.streamlit/secrets.toml` tracked.
 - [ ] Only fake CSV exists under `sample_data/`.
 - [ ] Supabase service-role/secret key is nowhere in the repository.
+
