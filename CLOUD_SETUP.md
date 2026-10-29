@@ -71,3 +71,4 @@ Each cloud save increments a revision number. If another device changes the clou
 - **Keep this device and overwrite cloud**
 
 For normal gym use, use one device at a time and the sync is automatic.
+
