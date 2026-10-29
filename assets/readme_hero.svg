@@ -1,0 +1,98 @@
+<svg width="1600" height="680" viewBox="0 0 1600 680" fill="none" xmlns="http://www.w3.org/2000/svg">
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="1600" y2="680" gradientUnits="userSpaceOnUse">
+    <stop stop-color="#05070C"/>
+    <stop offset="0.48" stop-color="#0B1020"/>
+    <stop offset="1" stop-color="#070914"/>
+  </linearGradient>
+  <linearGradient id="brand" x1="520" y1="135" x2="1040" y2="520" gradientUnits="userSpaceOnUse">
+    <stop stop-color="#F3EEFF"/>
+    <stop offset="0.38" stop-color="#B89BFF"/>
+    <stop offset="0.7" stop-color="#8F6DFF"/>
+    <stop offset="1" stop-color="#79EAD6"/>
+  </linearGradient>
+  <linearGradient id="line" x1="240" y1="0" x2="1360" y2="0" gradientUnits="userSpaceOnUse">
+    <stop stop-color="#79EAD6" stop-opacity="0.18"/>
+    <stop offset="0.45" stop-color="#9B7CFF" stop-opacity="0.85"/>
+    <stop offset="0.55" stop-color="#B9A7FF" stop-opacity="0.9"/>
+    <stop offset="1" stop-color="#79EAD6" stop-opacity="0.18"/>
+  </linearGradient>
+  <radialGradient id="glow">
+    <stop stop-color="#9B7CFF" stop-opacity=".32"/>
+    <stop offset="1" stop-color="#9B7CFF" stop-opacity="0"/>
+  </radialGradient>
+  <filter id="shadow" x="-50%" y="-50%" width="200%" height="200%">
+    <feGaussianBlur stdDeviation="20"/>
+  </filter>
+</defs>
+
+<rect width="1600" height="680" rx="36" fill="url(#bg)"/>
+<circle cx="805" cy="350" r="250" fill="url(#glow)" opacity=".85">
+  <animate attributeName="r" values="235;270;235" dur="7s" repeatCount="indefinite"/>
+  <animate attributeName="opacity" values=".55;.9;.55" dur="7s" repeatCount="indefinite"/>
+</circle>
+
+<text x="800" y="104" text-anchor="middle" fill="#A5A9B7" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="22" letter-spacing="5">PRIVATE FITNESS SYSTEM · LIVE PORTFOLIO</text>
+<text x="800" y="196" text-anchor="middle" fill="#F7F6FB" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="76" font-weight="700" letter-spacing="-3">PRism</text>
+<text x="800" y="255" text-anchor="middle" fill="url(#brand)" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="34" font-weight="650">Train with intent. See the pattern.</text>
+<text x="800" y="302" text-anchor="middle" fill="#A6ACBB" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="22">Training · Nutrition · Recovery · Progress · Private Cloud</text>
+
+<path d="M300 430 C520 430 600 355 720 355" stroke="url(#line)" stroke-width="3" stroke-dasharray="10 14" stroke-linecap="round">
+  <animate attributeName="stroke-dashoffset" values="0;-96" dur="4s" repeatCount="indefinite"/>
+</path>
+<path d="M880 355 C1000 355 1080 430 1300 430" stroke="url(#line)" stroke-width="3" stroke-dasharray="10 14" stroke-linecap="round">
+  <animate attributeName="stroke-dashoffset" values="0;-96" dur="4s" repeatCount="indefinite"/>
+</path>
+
+<g transform="translate(710 325)">
+  <rect width="180" height="126" rx="30" fill="#101424" stroke="#8F6DFF" stroke-opacity=".65"/>
+  <rect x="12" y="12" width="156" height="102" rx="24" fill="#0B0E19" stroke="#FFFFFF" stroke-opacity=".06"/>
+  <path d="M55 36 H125 V89 H84 V67 H55 Z" fill="#A98CFF">
+    <animateTransform attributeName="transform" type="rotate" values="-2 90 63;3 90 63;-2 90 63" dur="6s" repeatCount="indefinite"/>
+  </path>
+  <text x="90" y="108" text-anchor="middle" fill="#F7F6FB" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="17" font-weight="700">PRism</text>
+  <animateTransform attributeName="transform" type="translate" values="710 325;710 315;710 325" dur="5.5s" repeatCount="indefinite"/>
+</g>
+
+<g>
+  <rect x="150" y="378" width="250" height="104" rx="24" fill="#101521" stroke="#CDBFFF" stroke-opacity=".22"/>
+  <circle cx="196" cy="430" r="24" fill="#8F6DFF" fill-opacity=".16" stroke="#B9A7FF" stroke-opacity=".35"/>
+  <text x="196" y="438" text-anchor="middle" fill="#CDBFFF" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="18" font-weight="800">T</text>
+  <text x="232" y="418" fill="#F7F6FB" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="18" font-weight="700">TRAINING</text>
+  <text x="232" y="448" fill="#8E95A6" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="15">sets · reps · load · RPE</text>
+  <animateTransform attributeName="transform" type="translate" values="0 0;0 -8;0 0" dur="6.2s" repeatCount="indefinite"/>
+</g>
+
+<g>
+  <rect x="1200" y="378" width="250" height="104" rx="24" fill="#101521" stroke="#CDBFFF" stroke-opacity=".22"/>
+  <circle cx="1246" cy="430" r="24" fill="#79EAD6" fill-opacity=".10" stroke="#79EAD6" stroke-opacity=".25"/>
+  <text x="1246" y="438" text-anchor="middle" fill="#B9A7FF" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="18" font-weight="800">W</text>
+  <text x="1282" y="418" fill="#F7F6FB" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="18" font-weight="700">PATTERNS</text>
+  <text x="1282" y="448" fill="#8E95A6" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="15">week · trends · next move</text>
+  <animateTransform attributeName="transform" type="translate" values="0 0;0 7;0 0" dur="6.8s" repeatCount="indefinite"/>
+</g>
+
+<g>
+  <rect x="300" y="530" width="250" height="86" rx="22" fill="#0E1320" stroke="#79EAD6" stroke-opacity=".18"/>
+  <text x="330" y="566" fill="#79EAD6" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="18" font-weight="800">N</text>
+  <text x="370" y="565" fill="#F7F6FB" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="17" font-weight="700">NUTRITION</text>
+  <text x="370" y="590" fill="#8E95A6" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="14">meals · protein · energy</text>
+  <animateTransform attributeName="transform" type="translate" values="0 0;5 -4;0 0" dur="7.4s" repeatCount="indefinite"/>
+</g>
+<g>
+  <rect x="675" y="530" width="250" height="86" rx="22" fill="#0E1320" stroke="#B9A7FF" stroke-opacity=".20"/>
+  <text x="705" y="566" fill="#CDBFFF" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="18" font-weight="800">R</text>
+  <text x="745" y="565" fill="#F7F6FB" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="17" font-weight="700">RECOVERY</text>
+  <text x="745" y="590" fill="#8E95A6" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="14">sleep · quality · readiness</text>
+  <animateTransform attributeName="transform" type="translate" values="0 0;-4 5;0 0" dur="6.5s" repeatCount="indefinite"/>
+</g>
+<g>
+  <rect x="1050" y="530" width="250" height="86" rx="22" fill="#0E1320" stroke="#8F6DFF" stroke-opacity=".22"/>
+  <text x="1080" y="566" fill="#B9A7FF" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="18" font-weight="800">P</text>
+  <text x="1120" y="565" fill="#F7F6FB" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="17" font-weight="700">PROGRESS</text>
+  <text x="1120" y="590" fill="#8E95A6" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="14">weight · PRs · consistency</text>
+  <animateTransform attributeName="transform" type="translate" values="0 0;5 4;0 0" dur="7.1s" repeatCount="indefinite"/>
+</g>
+
+<text x="800" y="654" text-anchor="middle" fill="#71788A" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="15" letter-spacing="2">PYTHON · STREAMLIT · SQLITE · SUPABASE · PANDAS</text>
+</svg>

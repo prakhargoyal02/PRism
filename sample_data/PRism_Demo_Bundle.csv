@@ -1,0 +1,53 @@
+﻿record_type,name,age,height_cm,gender,goal,activity,days_goal,equipment,diet,day,log_time,kg,note,split,exercise,set_no,reps,rpe,meal_time,food,calories,protein,carbs,fat,hours,quality,weekday,sets,rest_seconds
+profile,PRism Demo,24,172.0,Prefer not to say,Build muscle,Moderate (3–5 days/week),4,Full gym,Vegetarian,,,,,,,,,,,,,,,,,,,,
+weights,,,,,,,,,,2026-10-16,07:30,68.8,Demo measurement,,,,,,,,,,,,,,,,
+weights,,,,,,,,,,2026-10-18,07:30,68.6,Demo measurement,,,,,,,,,,,,,,,,
+weights,,,,,,,,,,2026-10-20,07:30,68.5,Demo measurement,,,,,,,,,,,,,,,,
+weights,,,,,,,,,,2026-10-22,07:30,68.3,Demo measurement,,,,,,,,,,,,,,,,
+weights,,,,,,,,,,2026-10-24,07:30,68.2,Demo measurement,,,,,,,,,,,,,,,,
+weights,,,,,,,,,,2026-10-26,07:30,68.0,Demo measurement,,,,,,,,,,,,,,,,
+workouts,,,,,,,,,,2026-10-20,18:30,35.0,Fictional demo set,Upper A,Bench Press,1,10,7.0,,,,,,,,,,,
+workouts,,,,,,,,,,2026-10-20,18:34,40.0,Fictional demo set,Upper A,Bench Press,2,8,8.0,,,,,,,,,,,
+workouts,,,,,,,,,,2026-10-20,18:38,40.0,Fictional demo set,Upper A,Bench Press,3,8,8.0,,,,,,,,,,,
+workouts,,,,,,,,,,2026-10-20,18:42,35.0,Fictional demo set,Upper A,Lat Pulldown,1,12,7.0,,,,,,,,,,,
+workouts,,,,,,,,,,2026-10-20,18:46,40.0,Fictional demo set,Upper A,Lat Pulldown,2,10,8.0,,,,,,,,,,,
+workouts,,,,,,,,,,2026-10-22,18:50,60.0,Fictional demo set,Lower A,Leg Press,1,12,7.0,,,,,,,,,,,
+workouts,,,,,,,,,,2026-10-22,18:54,70.0,Fictional demo set,Lower A,Leg Press,2,10,8.0,,,,,,,,,,,
+workouts,,,,,,,,,,2026-10-22,18:33,70.0,Fictional demo set,Lower A,Leg Press,3,10,8.0,,,,,,,,,,,
+workouts,,,,,,,,,,2026-10-22,18:37,35.0,Fictional demo set,Lower A,Romanian Deadlift,1,10,7.0,,,,,,,,,,,
+workouts,,,,,,,,,,2026-10-22,18:41,40.0,Fictional demo set,Lower A,Romanian Deadlift,2,8,8.0,,,,,,,,,,,
+workouts,,,,,,,,,,2026-10-24,18:45,12.5,Fictional demo set,Upper B,Incline Dumbbell Press,1,12,7.0,,,,,,,,,,,
+workouts,,,,,,,,,,2026-10-24,18:49,15.0,Fictional demo set,Upper B,Incline Dumbbell Press,2,10,8.0,,,,,,,,,,,
+workouts,,,,,,,,,,2026-10-24,18:53,30.0,Fictional demo set,Upper B,Seated Cable Row,1,12,7.0,,,,,,,,,,,
+workouts,,,,,,,,,,2026-10-24,18:32,35.0,Fictional demo set,Upper B,Seated Cable Row,2,10,8.0,,,,,,,,,,,
+meals,,,,,,,,,,2026-10-26,08:00,,,,,,,,Breakfast,"Oats, milk, banana and curd",520.0,24.0,72.0,16.0,,,,,
+meals,,,,,,,,,,2026-10-26,13:15,,,,,,,,Lunch,"Rice, dal, paneer and salad",720.0,36.0,94.0,22.0,,,,,
+meals,,,,,,,,,,2026-10-26,17:00,,,,,,,,Snack,"Fruit, yogurt and roasted chana",310.0,18.0,45.0,7.0,,,,,
+meals,,,,,,,,,,2026-10-26,20:30,,,,,,,,Dinner,"Roti, vegetables, tofu/paneer and curd",680.0,38.0,73.0,23.0,,,,,
+sleep,,,,,,,,,,2026-10-20,07:20,,Demo recovery data,,,,,,,,,,,,7.1,4,,,
+sleep,,,,,,,,,,2026-10-21,07:20,,Demo recovery data,,,,,,,,,,,,6.8,3,,,
+sleep,,,,,,,,,,2026-10-22,07:20,,Demo recovery data,,,,,,,,,,,,7.5,4,,,
+sleep,,,,,,,,,,2026-10-23,07:20,,Demo recovery data,,,,,,,,,,,,7.3,4,,,
+sleep,,,,,,,,,,2026-10-24,07:20,,Demo recovery data,,,,,,,,,,,,8.0,4,,,
+sleep,,,,,,,,,,2026-10-25,07:20,,Demo recovery data,,,,,,,,,,,,7.6,4,,,
+sleep,,,,,,,,,,2026-10-26,07:20,,Demo recovery data,,,,,,,,,,,,7.8,4,,,
+plans,,,,,,,,,,,,,,Upper A,Bench Press,,6-10,,,,,,,,,,0,3,120
+plans,,,,,,,,,,,,,,Upper A,Lat Pulldown,,8-12,,,,,,,,,,0,3,90
+plans,,,,,,,,,,,,,,Upper A,Seated Cable Row,,8-12,,,,,,,,,,0,3,90
+plans,,,,,,,,,,,,,,Upper A,Lateral Raise,,12-15,,,,,,,,,,0,3,60
+plans,,,,,,,,,,,,,,Lower A,Leg Press,,8-12,,,,,,,,,,1,3,120
+plans,,,,,,,,,,,,,,Lower A,Romanian Deadlift,,8-12,,,,,,,,,,1,3,120
+plans,,,,,,,,,,,,,,Lower A,Leg Curl,,10-15,,,,,,,,,,1,3,75
+plans,,,,,,,,,,,,,,Lower A,Calf Raise,,12-20,,,,,,,,,,1,3,60
+plans,,,,,,,,,,,,,,Recovery,Easy walk,,20-30 min,,,,,,,,,,2,1,0
+plans,,,,,,,,,,,,,,Recovery,Mobility routine,,5-10 min,,,,,,,,,,2,1,0
+plans,,,,,,,,,,,,,,Upper B,Incline Dumbbell Press,,8-12,,,,,,,,,,3,3,90
+plans,,,,,,,,,,,,,,Upper B,Seated Cable Row,,8-12,,,,,,,,,,3,3,90
+plans,,,,,,,,,,,,,,Upper B,Shoulder Press,,8-12,,,,,,,,,,3,3,90
+plans,,,,,,,,,,,,,,Upper B,Biceps Curl,,10-15,,,,,,,,,,3,2,60
+plans,,,,,,,,,,,,,,Lower B,Squat or Goblet Squat,,6-10,,,,,,,,,,4,3,120
+plans,,,,,,,,,,,,,,Lower B,Hip Thrust,,8-12,,,,,,,,,,4,3,90
+plans,,,,,,,,,,,,,,Lower B,Leg Extension,,10-15,,,,,,,,,,4,3,75
+plans,,,,,,,,,,,,,,Lower B,Calf Raise,,12-20,,,,,,,,,,4,3,60
+plans,,,,,,,,,,,,,,Optional cardio,Comfortable cardio,,20-30 min,,,,,,,,,,5,1,0
+plans,,,,,,,,,,,,,,Rest,Rest / light mobility,,—,,,,,,,,,,6,1,0

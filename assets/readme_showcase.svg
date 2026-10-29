@@ -1,0 +1,67 @@
+<svg width="1600" height="760" viewBox="0 0 1600 760" fill="none" xmlns="http://www.w3.org/2000/svg">
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="1600" y2="760"><stop stop-color="#060911"/><stop offset="1" stop-color="#0A0E19"/></linearGradient>
+  <linearGradient id="violet" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#B9A7FF"/><stop offset="1" stop-color="#7959F0"/></linearGradient>
+  <linearGradient id="mint" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#79EAD6"/><stop offset="1" stop-color="#77A8FF"/></linearGradient>
+</defs>
+<rect width="1600" height="760" rx="32" fill="url(#bg)"/>
+<text x="80" y="82" fill="#F7F6FB" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="34" font-weight="700">A product built around the training day.</text>
+<text x="80" y="118" fill="#8F96A8" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="18">Fictional demo values below. The public portfolio never needs real fitness records.</text>
+
+<rect x="80" y="160" width="910" height="520" rx="28" fill="#0D1220" stroke="#CDBFFF" stroke-opacity=".16"/>
+<text x="122" y="210" fill="#B9A7FF" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="14" letter-spacing="3" font-weight="700">EXPLORE</text>
+<text x="122" y="258" fill="#F7F6FB" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="32" font-weight="700">Today, without the clutter.</text>
+<text x="122" y="290" fill="#8F96A8" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="16">The useful signals first, then the story behind them.</text>
+
+<g>
+<rect x="122" y="330" width="186" height="102" rx="20" fill="#111827" stroke="#B9A7FF" stroke-opacity=".16"/>
+<text x="144" y="362" fill="#8990A3" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="13">LATEST WEIGHT</text>
+<text x="144" y="404" fill="#F7F6FB" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="25" font-weight="700">Demo log</text>
+</g>
+<g>
+<rect x="326" y="330" width="186" height="102" rx="20" fill="#111827" stroke="#79EAD6" stroke-opacity=".14"/>
+<text x="348" y="362" fill="#8990A3" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="13">TRAINING · 7D</text>
+<text x="348" y="404" fill="#F7F6FB" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="25" font-weight="700">4 days</text>
+</g>
+<g>
+<rect x="530" y="330" width="186" height="102" rx="20" fill="#111827" stroke="#B9A7FF" stroke-opacity=".16"/>
+<text x="552" y="362" fill="#8990A3" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="13">PROTEIN</text>
+<text x="552" y="404" fill="#F7F6FB" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="25" font-weight="700">Demo</text>
+</g>
+<g>
+<rect x="734" y="330" width="214" height="102" rx="20" fill="#111827" stroke="#77A8FF" stroke-opacity=".14"/>
+<text x="756" y="362" fill="#8990A3" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="13">RECOVERY</text>
+<text x="756" y="404" fill="#F7F6FB" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="25" font-weight="700">Sleep trend</text>
+</g>
+
+<rect x="122" y="468" width="826" height="168" rx="22" fill="#0A0F1B" stroke="#8F6DFF" stroke-opacity=".24"/>
+<text x="150" y="505" fill="#8F96A8" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="13" letter-spacing="2">NEXT SESSION</text>
+<text x="150" y="548" fill="#F7F6FB" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="25" font-weight="700">Upper A · Monday</text>
+<text x="150" y="581" fill="#9DA3B4" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="16">Bench Press · Lat Pulldown · Seated Cable Row · Lateral Raise</text>
+<rect x="150" y="602" width="520" height="8" rx="4" fill="#1A2132"/>
+<rect x="150" y="602" width="318" height="8" rx="4" fill="url(#violet)"/>
+<text x="698" y="610" fill="#8F96A8" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="13">planned-set progress</text>
+
+<rect x="1065" y="152" width="390" height="548" rx="42" fill="#070A11" stroke="#B9A7FF" stroke-opacity=".32" stroke-width="2"/>
+<rect x="1193" y="170" width="132" height="22" rx="11" fill="#181D2B"/>
+<text x="1102" y="230" fill="#B9A7FF" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="12" letter-spacing="2.5">LIVE WORKOUT</text>
+<text x="1102" y="272" fill="#F7F6FB" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="28" font-weight="700">Train between sets.</text>
+<text x="1102" y="300" fill="#8F96A8" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="14">Next movement stays obvious.</text>
+
+<rect x="1102" y="336" width="316" height="104" rx="20" fill="#111827" stroke="#79EAD6" stroke-opacity=".18"/>
+<text x="1124" y="366" fill="#8990A3" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="12">NEXT MOVEMENT</text>
+<text x="1124" y="400" fill="#F7F6FB" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="21" font-weight="700">Lat Pulldown</text>
+<text x="1124" y="423" fill="#79EAD6" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="12">2 / 3 planned sets</text>
+
+<rect x="1102" y="462" width="148" height="88" rx="18" fill="#0E1422" stroke="#B9A7FF" stroke-opacity=".16"/>
+<text x="1120" y="490" fill="#8990A3" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="11">WEIGHT</text>
+<text x="1120" y="526" fill="#F7F6FB" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="22" font-weight="700">Set load</text>
+<rect x="1270" y="462" width="148" height="88" rx="18" fill="#0E1422" stroke="#B9A7FF" stroke-opacity=".16"/>
+<text x="1288" y="490" fill="#8990A3" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="11">RPE</text>
+<text x="1288" y="526" fill="#F7F6FB" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="22" font-weight="700">Effort</text>
+
+<rect x="1102" y="576" width="316" height="62" rx="31" fill="url(#violet)"/>
+<text x="1260" y="615" text-anchor="middle" fill="#0A0715" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="18" font-weight="800">SAVE SET</text>
+
+<text x="800" y="726" text-anchor="middle" fill="#747C8F" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="14" letter-spacing="2">DESKTOP FOR THE BIG PICTURE · PHONE FOR THE GYM FLOOR</text>
+</svg>

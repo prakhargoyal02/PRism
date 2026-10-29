@@ -1,0 +1,38 @@
+<svg width="1500" height="620" viewBox="0 0 1500 620" fill="none" xmlns="http://www.w3.org/2000/svg">
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="1500" y2="620"><stop stop-color="#070A12"/><stop offset="1" stop-color="#0B1020"/></linearGradient>
+  <linearGradient id="pub" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#79EAD6"/><stop offset="1" stop-color="#77A8FF"/></linearGradient>
+  <linearGradient id="pri" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#B9A7FF"/><stop offset="1" stop-color="#8F6DFF"/></linearGradient>
+</defs>
+<rect width="1500" height="620" rx="32" fill="url(#bg)" stroke="#CDBFFF" stroke-opacity=".12"/>
+<text x="750" y="70" text-anchor="middle" fill="#F7F6FB" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="34" font-weight="700">One live URL. Two completely different data worlds.</text>
+<text x="750" y="108" text-anchor="middle" fill="#8F96A8" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="18">The public portfolio can be explored freely without crossing the private-data boundary.</text>
+
+<rect x="590" y="148" width="320" height="80" rx="20" fill="#12182A" stroke="#B9A7FF" stroke-opacity=".28"/>
+<text x="750" y="183" text-anchor="middle" fill="#F7F6FB" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="20" font-weight="700">PRism live app</text>
+<text x="750" y="207" text-anchor="middle" fill="#8F96A8" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="14">Streamlit Community Cloud</text>
+
+<path d="M680 230 C620 275 470 270 360 322" stroke="url(#pub)" stroke-width="3" stroke-dasharray="10 10"><animate attributeName="stroke-dashoffset" values="0;-80" dur="4s" repeatCount="indefinite"/></path>
+<path d="M820 230 C880 275 1030 270 1140 322" stroke="url(#pri)" stroke-width="3" stroke-dasharray="10 10"><animate attributeName="stroke-dashoffset" values="0;-80" dur="4s" repeatCount="indefinite"/></path>
+
+<rect x="130" y="310" width="460" height="220" rx="26" fill="#0C1420" stroke="#79EAD6" stroke-opacity=".28"/>
+<circle cx="190" cy="372" r="30" fill="#79EAD6" fill-opacity=".12"/>
+<text x="190" y="380" text-anchor="middle" fill="#79EAD6" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="18" font-weight="800">D</text>
+<text x="238" y="362" fill="#F7F6FB" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="24" font-weight="700">Public Demo Sandbox</text>
+<text x="238" y="392" fill="#8F96A8" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="16">signed-out visitor</text>
+<text x="170" y="438" fill="#D8DBE6" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="17">✓ fictional date-aware data</text>
+<text x="170" y="470" fill="#D8DBE6" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="17">✓ isolated temporary SQLite</text>
+<text x="170" y="502" fill="#D8DBE6" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="17">✓ add / delete / import / export / reset</text>
+
+<rect x="910" y="310" width="460" height="220" rx="26" fill="#111020" stroke="#A98CFF" stroke-opacity=".35"/>
+<circle cx="970" cy="372" r="30" fill="#9B7CFF" fill-opacity=".14"/>
+<rect x="958" y="366" width="24" height="18" rx="4" fill="#CDBFFF" fill-opacity=".9"/>
+<path d="M963 366 v-7 a7 7 0 0 1 14 0 v7" stroke="#CDBFFF" stroke-width="3" fill="none"/>
+<text x="1018" y="362" fill="#F7F6FB" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="24" font-weight="700">Private Cloud</text>
+<text x="1018" y="392" fill="#8F96A8" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="16">authenticated owner</text>
+<text x="950" y="438" fill="#D8DBE6" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="17">✓ Supabase Auth + RLS</text>
+<text x="950" y="470" fill="#D8DBE6" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="17">✓ refresh-safe browser session</text>
+<text x="950" y="502" fill="#D8DBE6" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="17">✓ phone ↔ desktop synced private state</text>
+
+<text x="750" y="582" text-anchor="middle" fill="#777F92" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="15" letter-spacing="1.5">PUBLIC DEMO NEVER READS THE OWNER'S PRIVATE CLOUD ROW</text>
+</svg>
