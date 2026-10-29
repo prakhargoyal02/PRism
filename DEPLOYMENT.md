@@ -59,3 +59,4 @@ Export your personal PRism Bundle CSV locally, sign into the live private PRism,
 8. Make one change on phone.
 9. Refresh/open the private app on desktop and confirm it appears.
 10. Sign out and verify the site returns to the fake Demo sandbox.
+
