@@ -679,3 +679,4 @@ def rest_timer(seconds: int) -> None:
         """,
         height=106,
     )
+
