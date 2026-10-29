@@ -180,3 +180,4 @@ def open_demo_profile(reset: bool = False) -> int:
         _populate_demo(person_id)
 
     return person_id
+
