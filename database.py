@@ -437,7 +437,6 @@ def delete_person(person_id: int) -> None:
     # Remember the backup folder before deleting the profile row, because the
     # folder name uses the person's display name.
     backup_folder = person_folder(person_id)
-
     with connect() as con:
         for table in DATA_TABLES:
             con.execute(f"DELETE FROM {table} WHERE person_id=?", (person_id,))
@@ -544,3 +543,4 @@ def session_is_complete(person_id: int, day: str) -> bool:
 # Storage is initialized by app.py after Streamlit page configuration.
 # This lets the public entrypoint assign an isolated per-session database
 # before any SQLite file is opened.
+
