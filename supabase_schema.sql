@@ -64,3 +64,4 @@ on public.prism_state
 for delete
 to authenticated
 using ((select auth.uid()) = user_id);
+
