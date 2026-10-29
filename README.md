@@ -366,3 +366,4 @@ PRism is a fitness tracking and education project. Its training, nutrition and r
 <sub>Built by <a href="https://github.com/prakhargoyal02">Prakhar Goyal</a> · Python · Streamlit · SQLite · Supabase · Pandas · Responsive UI</sub>
 
 </div>
+
