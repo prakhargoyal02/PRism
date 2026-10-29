@@ -116,3 +116,4 @@ That demonstrates product design, application state, database work, authenticati
 ## Status
 
 PRism is live and usable. Core functionality is intentionally kept stable; future changes should be additive polish or clearly scoped features rather than large rewrites.
+
