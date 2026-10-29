@@ -649,3 +649,4 @@ finally:
     cloud_sync.configured = _original_configured
     cloud_sync.sign_out_local = _original_sign_out_local
     st.caption = _original_caption
+
