@@ -483,3 +483,4 @@ def template_zip() -> bytes:
             "5. File name does not matter. PRism reads columns and record_type.\n",
         )
     return memory.getvalue()
+
